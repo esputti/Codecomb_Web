@@ -19,6 +19,20 @@
   color: white;
 }
 
+.App-Component {
+  margin: 10px auto 0 auto;
+  width: 600px;
+}
+
+.App-Img {
+  margin: 200px auto 0 auto;
+}
+
+.App-Results {
+  margin: 10px auto 0 auto;
+  width: 1000px;
+}
+
 .App-link {
   color: #61dafb;
 }
